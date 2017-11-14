@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Indx</string>
+
+    <string name="action_settings" translatable="false">@string/Settings</string>
+    <string name="Tools">Tools</string>
+    <string name="Projects">Projects</string>
+    <string name="Locations">Locations</string>
+    <string name="Materials">Materials</string>
+    <string name="Places">Places</string>
+    <string name="title_activity_settings" translatable="false">@string/Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- General settings -->
+    <string name="pref_header_general" translatable="false">@string/General</string>
+
+    <string name="pref_title_language" translatable="false">@string/Language</string>
+    <string-array name="pref_language_list_titles">
+        <item>@string/arabic</item>
+        <item>@string/english</item>
+    </string-array>
+    <string-array name="pref_language_list_values" translatable="false">
+        <item>ar</item>
+        <item>en</item>
+    </string-array>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_about" translatable="false">@string/about</string>
+
+    <string name="english" translatable="false">English</string>
+    <string name="arabic" translatable="false">عربي</string>
+    <string name="about_text">Indx is the ultimate source for designers and makers to find tools and materials in Kuwait.</string>
+    <string name="about">About</string>
+    <string name="Settings">Settings</string>
+
+    <string name="action_sign_in" translatable="false">@string/sign_in</string>
+    <string name="title_activity_sign_in" translatable="false">@string/sign_in</string>
+    <string name="sign_in">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email" translatable="false">@string/email</string>
+    <string name="prompt_password" translatable="false">@string/password</string>
+    <string name="action_sign_in_short" translatable="false">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">Password must be at least 6 characters</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="call">Call</string>
+    <string name="location">Location</string>
+    <string name="materials_description">Materials needed to make this project.</string>
+    <string name="tools_description">Tools needed to make this project.</string>
+    <string name="places_description">Places where materials and tools exists.</string>
+    <string name="General">General</string>
+    <string name="Language">Language</string>
+    <string name="submit">Submit</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="add_form_description">You are here to make this a better place. We will contact you ASAP.</string>
+    <string name="description">Description and Details</string>
+    <string name="form_title">Submit an entry</string>
+    <string name="title">Title</string>
+    <string name="action_sign_out">Sign out</string>
+    <string name="signed_out_from">Signed out from</string>
+    <string name="form_signin_required_description">To add an entry please register/sign in.</string>
+    <string name="firebase_failed_to_post">Failed to submit your request. Please try again.</string>
+    <string name="firebase_success_to_post">Thank you for making this place a better place.</string>
+    <string name="website">Website</string>
+
+    <string-array name="form_spinner_entries">
+        <item>@string/Projects</item>
+        <item>@string/Tools</item>
+        <item>@string/Materials</item>
+    </string-array>
+    <string name="share">Share</string>
+
+    <string name="dynamic_link_format" formatted="false" translatable="false">https://nv28q.app.goo.gl/?link=https://nv28q.app.goo.gl/%s/%s&amp;apn=com.themakersdirectory&amp;ibi=com.themakersdirectory.ios&amp;isi=1171329399</string>
+    <string name="share_format" formatted="false" translatable="false">%s: %s\n\n%s</string>
+    <string name="search_hint">materials, tools, places</string>
+    <string name="search">Search</string>
+    <string name="search_result">Search results for</string>
+
+    <string name="empty_search_description">No results found</string>
+    <string name="getting_your_request">Getting your request</string>
+    <string name="youth_logo_description">This app is sponsored by Ministry of State for Youth Affairs</string>
+    <string name="add_form_spinner_description">Choose your entry type</string>
+    <string name="name">Name</string>
+    <string name="add_location">Add a location</string>
+    <string name="processing_your_request">Processing your request</string>
+    <string name="firebase_password_Reset_email">You will receive an email shortly</string>
+    <string name="reset_password">Reset your password</string>
+    <string name="tools_and_materials"><![CDATA[Tools & Materials]]></string>
+    <string name="searching">Searching</string>
+    <string name="branches_description">Branches</string>
+    <string name="choose_number_to_call">Choose a number to call</string>
+
+    <string name="lets_make">Let\'s Start Make</string>
+    <string name="on_bording_msg_1">Find the tool you need for your product or project</string>
+    <string name="on_bording_msg_2">Find the material you need for your product or project</string>
+    <string name="on_bording_msg_3">Find a service provider that can help you make your product or project</string>
+    <string name="preference_file_key" translatable="false">On Boarding Pref File Key</string>
+</resources>

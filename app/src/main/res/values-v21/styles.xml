@@ -1,0 +1,19 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar.Launcher">
+        <item name="android:windowBackground">@drawable/app_sc</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="FullscreenTheme" parent="AppTheme.NoActionBar">
+        <item name="android:windowBackground">@color/colorPrimary</item>
+        <item name="android:colorButtonNormal">@color/colorAccent</item>
+
+    </style>
+</resources>

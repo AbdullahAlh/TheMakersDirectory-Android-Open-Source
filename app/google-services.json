@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "YOUR_PROJECT_NUMBER",
+    "firebase_url": "https://YOUR_PROJECT_URL.firebaseio.com",
+    "project_id": "YOUR_PROJECT_ID",
+    "storage_bucket": "YOUR_STORAGE_BUCKET"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568143673577:android:664a23e88b40f2bc",
+        "android_client_info": {
+          "package_name": "YOUR_APP_PACKAGE_NAME"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "CLIENT_ID",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "YOUR_APP_PACKAGE_NAME",
+            "certificate_hash": "CERTIFICATE_HASH"
+          }
+        },
+        {
+          "client_id": "CLIENT_ID",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "YOUR_APP_PACKAGE_NAME",
+            "certificate_hash": "CERTIFICATE_HASH"
+          }
+        },
+        {
+          "client_id": "CLIENT_ID",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "CURRENT_KEY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

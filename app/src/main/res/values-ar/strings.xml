@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">إندكس</string>
+
+    <string name="error_invalid_email">البريد الإلكتروني غير صالح</string>
+    <string name="error_invalid_password">يجب أن تكون كلمة السر أكثر من ٥ أحرف</string>
+    <string name="error_incorrect_password">كلمة السر خاطئه</string>
+    <string name="error_field_required">هذه الخانة مطلوبه</string>
+
+    <string name="Tools">الأدوات</string>
+    <string name="Projects">المشاريع</string>
+    <string name="Locations">الأماكن</string>
+    <string name="Materials">المواد</string>
+    <string name="Places">الأماكن</string>
+    <string name="about_text">إندكس هو المصدر الشامل للحرفيين و الصناع لإيجاد المواد و الأدوات في الكويت. </string>
+    <string name="about">عن البرنامج</string>
+    <string name="Settings">الإعدادات</string>
+    <string name="call">اتصل</string>
+    <string name="location">المكان</string>
+    <string name="materials_description">المواد المطلوبة لصنع هذا المنتج.</string>
+    <string name="tools_description">الأدوات المطلوبة لصنع هذا المنتج.</string>
+    <string name="places_description">أماكن تواجد المواد و الأدوات.</string>
+    <string name="General">عام</string>
+    <string name="Language">اللغة</string>
+    <string name="submit">ارسل</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة السر</string>
+    <string name="add_form_description">أنت هنا لجعل هذا المكان أفضل. سنتواصل معك بأسرع وقت ممكن.</string>
+    <string name="description">الوصف و التفاصيل</string>
+    <string name="form_title">قدم طلب إدخال</string>
+    <string name="title">العنوان</string>
+    <string name="action_sign_out">تسجيل الخروج</string>
+    <string name="signed_out_from">تم تسجيل الخروج من</string>
+    <string name="form_signin_required_description">لتتمكن من إضافة معلومات للبرنامج يجب إنشاء حساب تسجيل الدخول.</string>
+    <string name="firebase_failed_to_post">تعثر تسجيل طلبك. يرجى التقديم مرة أخرى.</string>
+    <string name="firebase_success_to_post">شكرا لك لجعلك هذا المكان أفضل.</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="website">الموقع الإلكتروني</string>
+    <string name="share">إنشر</string>
+    <string name="search_hint">مواد، أدوات، أماكن</string>
+    <string name="search">إبحث</string>
+    <string name="search_result">نتائج بحث </string>
+
+    <string name="permission_rationale">"البرنامج بحاجة إلى الدخول لجهات الاتصال لتوفير استكمال البريد الإلكتروني"
+    </string>
+    <string name="empty_search_description">لا توجد نتائج</string>
+    <string name="getting_your_request">يتم الحصول على طلبك</string>
+    <string name="youth_logo_description">هذا البرنامج برعاية وزارة الدولة لشئون الشباب</string>
+    <string name="add_form_spinner_description">اختر نوع المدخل</string>
+    <string name="name">الإسم</string>
+    <string name="add_location">أضف مكان</string>
+    <string name="processing_your_request">يتم معالجة طلبك</string>
+    <string name="firebase_password_Reset_email">سيصلك بريد إلكتروني قريبا</string>
+    <string name="reset_password">اعادة تعيين كلمة السر</string>
+    <string name="tools_and_materials">الأدوات و المواد</string>
+    <string name="searching">يتم البحث</string>
+    <string name="branches_description">الأفرع</string>
+    <string name="choose_number_to_call">اختر رقم الهاتف للإتصال</string>
+    <string name="lets_make">إبدأ بالتصنيع</string>
+    <string name="on_bording_msg_1">أعثر على الأداة التي تريدها لإنجاز مشروعك</string>
+    <string name="on_bording_msg_2">أعثر على المادة التي تريدها لإنجاز مشروعك</string>
+    <string name="on_bording_msg_3">أعثر على مقدم خدمة يمكنه مساعدتك في إنجاز مشروعك</string>
+</resources>
